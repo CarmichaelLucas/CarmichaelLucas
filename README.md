@@ -1,11 +1,15 @@
 <p>
-  <h1 align="center"><b>Oi, sou Lucas Carmichael</b> :brazil:</h1>
+  <h2>Oi, sou Lucas Carmichael :brazil:</h2>
+  <h5 align="center">Bem vindo ao meu perfil do GitHub</h5>
 </p>
+
+<p>
+  Atualmente trabalho como Quality Assurance no Banco Neon. Caso queira me contatar, abaixo deixei algumas redes sociais onde pode me encontrar 👇 
+</p>
+<br />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lucas-carmichael/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://gitlab.com/CarmichaelLucas"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
-<a href="https://bitbucket.org/lucascarmichael/"><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" /></a>&nbsp;
 <a href="https://t.me/carmichaellucas"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="https://dev.to/carmichaellucas"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="https://carmichael-slucas.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Telegram" /></a>&nbsp;
@@ -14,24 +18,13 @@
 <br />
 
 <p>
-  Entusiasta em Engenharia de Software desde 2018. Atuando como Quality Assunrance em ambientes Ageis.
+  <h3>Mais sobre mim</h3>
 </p>
-<br />
+
+<p>Em meu último projeto, criei a <a href="https://github.com/CarmichaelLucas/favorite_list">WishList</a> uma API onde sua ideia é vincular cliente a uma lista de produtos favoritos, assim, pude aprender sobre a linguagem de programação <b>Ruby</b> e também o uso do framework <b>Ruby on Rails</b>. Este projeto surgiu em uma mentoria, onde pude melhorar minhas <b><i>Skills</i></b> com programação.</p>
 
 <p>
-  <h2 align="center"><b>Sobre mim</b> :blush:	</h2>
-</p>
-
-<p align="center">
-  Timezone: America/Sao Paulo
-</p>
-  
-<br />
-
-<p>Em meu ultimo projeto, eu criei uma API <a href="https://github.com/CarmichaelLucas/favorite_list">WishList</a> com proposito de aprender melhor a linguagem de programação Ruby e o framework Ruby on Rails representando uma lista de produtos favoritos a um cliente. Este projeto foi criado em prol de uma mentoria que estou recebendo a algum tempo para melhorar minhas skills em programação.</p>
-
-<p>
-  <h3 align="center">Linguagens e Ferramentas</h3>
+  <h3>Tecnologias e Ferramentas</h3>
 </p>
 
 <br />
