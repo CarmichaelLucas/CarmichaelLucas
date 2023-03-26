@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  Atualmente trabalho como Quality Assurance no Banco Neon. Caso queira me contatar, abaixo deixei algumas redes sociais onde pode me encontrar 👇 
+  Atualmente trabalho como desenvolvedor FullStack na empresa Vindi. Caso queira me contatar, abaixo deixei algumas redes sociais onde pode me encontrar 👇 
 </p>
 <br />
 
